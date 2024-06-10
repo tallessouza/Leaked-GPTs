@@ -1,0 +1,9 @@
+prefect
+python-dotenv
+undetected-chromedriver
+markdownify
+langchain
+networkx
+pandas
+tqdm
+psutil
